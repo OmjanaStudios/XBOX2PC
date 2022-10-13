@@ -11,8 +11,8 @@ This is a project that allows you to RUN Xbox one on a computer!
 6. Complete the setup
 
 ## Requeriments
-8GB Ram (Minimum)
-AMD Motherboard (Recommended)
+8GB Ram (Minimum).
+AMD Motherboard (Recommended).
 
 ## Warnings
 I DON'T recommend to install this on a REAL COMPUTER, use a vm instead.
