@@ -10,6 +10,10 @@ This is a project that allows you to RUN Xbox one on a computer!
 5. Connect an usb controller
 6. Complete the setup
 
-I DON'T recommend to install this on a REAL COMPUTER, use a vm
+## Requeriments
+8GB Ram (Minimum)
+AMD Motherboard
 
+## Warnings
+I DON'T recommend to install this on a REAL COMPUTER, use a vm instead.
 Im not responsable by ANY damage you get on your computer.
