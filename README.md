@@ -15,5 +15,5 @@ This is a project that allows you to RUN Xbox one on a computer!
 2. AMD Motherboard (Recommended)
 
 ## Warnings
-I DON'T recommend to install this on a REAL COMPUTER, use a vm instead.
-Im not responsable by ANY damage you get on your computer.
+.I DON'T recommend to install this on a REAL COMPUTER, use a vm instead.
+.Im not responsable by ANY damage you get on your computer.
