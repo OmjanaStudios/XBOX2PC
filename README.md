@@ -18,3 +18,6 @@ This is a project that allows you to RUN Xbox one on a computer!
 I DON'T recommend to install this on a REAL COMPUTER, use a vm instead.
 
 Im not responsable by ANY damage you get on your computer.
+
+## Credits
+XvdTool, if was not it, i would spend money on a Xbox
