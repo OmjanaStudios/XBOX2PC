@@ -23,4 +23,4 @@ I DON'T recommend to install this on a REAL COMPUTER, use a vm instead.
 Im not responsable by ANY damage you get on your computer.
 
 ## Credits
-* emoose/XvdTool, if was not it, i would spend money on a Xbox
+* [emoose/XvdTool](https://github.com/emoose/xvdtool), if was not it, i would spend money on a Xbox
