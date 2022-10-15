@@ -16,6 +16,10 @@ This is a project that allows you to RUN Xbox one on a computer!
 
 ## State
 - [X] Write the needed information
+- [X] Get the right parameters to extract
+- [ ] Get the key for the file
+- [ ] Extract the files
+- [ ] Capture into a WIM file
 
 ## Warnings
 I DON'T recommend to install this on a REAL COMPUTER, use a vm instead.
