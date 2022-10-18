@@ -10,6 +10,10 @@ This is a project that allows you to RUN Xbox one on a computer!
 5. Connect an usb controller
 6. Complete the setup
 
+## Theory that it will work
+A LinkedIn page from a Microsoft intern contains a reference to something called "Windows OneCore" which could be a rebranding of the company's plans to develop one kernel that will be used for all of Microsoft's operating systems, including Windows, Windows Phone and Xbox.
+[I got this info here=](https://www.windowscentral.com/windows-onecore-shows-some-microsoft-linkedin-pages#:~:text=A%20LinkedIn%20page%20from%20a%20Microsoft%20intern%20contains,operating%20systems%2C%20including%20Windows%2C%20Windows%20Phone%20and%20Xbox.)
+
 ## Requeriments
 1. 8GB Ram (Minimum)
 2. AMD Motherboard (Recommended)
