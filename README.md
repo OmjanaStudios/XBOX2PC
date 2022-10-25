@@ -27,7 +27,7 @@ So if it uses the same kernel for all devices, in _*theory*_ this will work
 ## State
 - [X] Write the needed information
 - [X] Get the right parameters to extract
-- [ ] Get the key for the file
+- [X] Get the key for the file
 - [ ] Extract the files
 - [ ] Capture into a WIM file
 
@@ -38,3 +38,4 @@ Im not responsable by ANY damage you get on your computer.
 
 ## Credits
 * [XvdTool](https://github.com/emoose/xvdtool), if was not it, i would spend money on a Xbox
+* [DurangoKeyExtractor](https://github.com/emoose/xvdtool/tree/master/DurangoKeyExtractor), By the same guy, this extracted the key from the system.xvd
