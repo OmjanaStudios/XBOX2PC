@@ -27,7 +27,7 @@ So if it uses the same kernel for all devices, in _*theory*_ this will work
 ## State
 - [X] Write the needed information
 - [X] Get the right parameters to extract
-- [X] Get the key for the file
+- [ ] Get the key for the file
 - [ ] Extract the files
 - [ ] Capture into a WIM file
 
