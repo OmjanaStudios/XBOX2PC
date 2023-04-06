@@ -4,7 +4,7 @@ This is a project that allows you to RUN Xbox One OS (CodeName:Durango) on a com
 
 ## Usage instructions
 1. Download the ISO
-2. Deploy it into an pendrive, [Rufus](Rufus.ie) recommended
+2. Deploy it into an pendrive, [Rufus](https://Rufus.ie) recommended
 3. Boot at the pendrive
 4. Wait Xbox OS Load
 5. Connect an usb controller
